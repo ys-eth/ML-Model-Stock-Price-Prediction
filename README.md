@@ -1,9 +1,4 @@
-# COGS188 Stock Price Prediction Project
-
-## Group Members
-- Lucas Fasting
-- Yash Sharma
-- Bryan Nguyen
+# Stock Price Prediction Project
 
 ## Project Overview
 This project aims to predict future stock prices using various machine learning algorithms and evaluate their effectiveness in trading and generating profit across different stocks and their respective call and put options. 
